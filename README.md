@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-git add codemagic.yaml
-git commit -m 'Add first workflow'
-git push
